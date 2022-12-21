@@ -1,0 +1,16 @@
+C:\Users\dell\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\dell\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\dell\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\dell\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\dell\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\مشروع سمير الموجي\الاعداد الاولية\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\مشروع سمير الموجي\الاعداد الاولية\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+D:\مشروع سمير الموجي\الاعداد الاولية\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\مشروع سمير الموجي\الاعداد الاولية\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\مشروع سمير الموجي\الاعداد الاولية\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\مشروع سمير الموجي\الاعداد الاولية\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\مشروع سمير الموجي\الاعداد الاولية\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\مشروع سمير الموجي\الاعداد الاولية\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
